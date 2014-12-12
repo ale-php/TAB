@@ -1,12 +1,14 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
+<!DOCTYPE html>
+<html>
+    <head>
+        
 <title>Download músicas, Filmes, Jogos, Programas, Series e muito mais! The Anony Bay - O maior site de Torrents do Brasil</title>
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="content-language" content="pt-br">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Download musicas, músicas, Filmes, Jogos, Programas, Séries e muito mais!. The Anony Bay - O Maior Site de Torrents do Brasil."/>
 <meta name="keywords" content="mp3, avi, 3gp, mp4, Anonymousbr, bittorrent, torrent, torrents, movies, music, games, applications, apps, download, upload, share, kopimi, compartilhar, filmes, Músicas, Jogos, Programas, Android, Aplicativos,"/>
-<meta name="author" content="rafanatural">
 <script src="/js/tpb.js" type="text/javascript"></script>
 <script type="text/javascript">
 if (top != self) top.location.href = location.href;
@@ -84,7 +86,6 @@ text-decoration: none;}
 #topright a {border: 0;}
 </style>
 
-<
 </head>
 
 <body>
@@ -147,6 +148,7 @@ text-decoration: none;}
 </p>
 
 <p id="footer" style="color:#666; font-size:0.9em; ">
+      <!-- Aqui Ficará o registro de usuarios e de arquivos enviados no servidor -->
         3.731.461 registered users. Last updated 19:28:04.<br />
         IPv4 19.678.940 peers (9.935.545 seeders + 9.743.395 leechers) in 1.786.657 torrents on tracker.<br />
         IPv6 287.418 peers (160.464 seeders + 126.954 leechers) in 202.137 torrents on tracker.<br />
