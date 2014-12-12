@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        
+<head>      
 <title>Download músicas, Filmes, Jogos, Programas, Series e muito mais! The Anony Bay - O maior site de Torrents do Brasil</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +12,6 @@
 <script type="text/javascript">
 if (top != self) top.location.href = location.href;
 </script>
-
 
 <style type="text/css">
 body{
@@ -86,8 +84,7 @@ text-decoration: none;}
 #topright a {border: 0;}
 </style>
 
-</head>
-
+</head
 <body>
 <div id="topright"><a href="http://www.bytelove.com/tpb" target="_blank"><img src="img/blTrial.gif" border="0" alt=""/></a></div>
 <div class="searchfield" style="margin:1em auto 0 auto;">
